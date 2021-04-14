@@ -1,0 +1,36 @@
+{
+  "Mission1": "Voor jongeren",
+  "Mission2": "Voor bedrijven",
+  "About": "Over ons",
+  "Contact": "Contact",
+  "Footer_contact_mail": "info@swipeyourjob.nl",
+  "Footer_contact_phone": "+316 50884876",
+  "Footer_policy_terms": "Algemene Voorwaarden",
+  "Footer_policy_privacy": "Privacy Statement",
+
+
+  "Policy": "Policy",
+  "Product": "Contact",
+  "Tell us everything": "Tell us everything",
+  "Do you have any question regarding the project? Feel free to reach out.": "Do you have any question regarding the project? Feel free to reach out.",
+  "Let's Chat": "Let's Chat",
+  "Application Security": "Application Security",
+  "Software Principles": "Software Principles",
+  "Support Center": "Support Center",
+  "Customer Support": "Customer Support",
+  "ADDRESS": "ADDRESS",
+  "Press": "Press",
+  "Careers & Culture": "Careers & Culture",
+  "Language": "Language",
+  "Explore": "Explore",
+  "Learn More": "Learn More",
+  "Get Started": "Get Started",
+  "Submit": "Submit",
+
+  "Name" : "Naam*",
+  "Your Name": "Je naam",
+  "Email" : "E-mailadres*",
+  "Your Email": "Je e-mail",
+  "Message" : "Bericht*",
+  "Your Message": "Je bericht"
+}

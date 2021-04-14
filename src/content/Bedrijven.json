@@ -1,0 +1,11 @@
+{
+  "title": "Met ons dashboard is een nieuwe werknemer zo gevonden.",
+  "text": "Eenvouding vacatures aanmaken, aanpassen of verbergen. Met éen klik een bericht versturen naar alle geïnteresseerden. Zo verloopt het vinden van werknemers gemakkelijker en sneller.",
+  "button": [
+    {
+      "title": "Meer informatie",
+      "color": "#FFFFFF",
+      "nav": "/contact"
+    }
+  ]
+}

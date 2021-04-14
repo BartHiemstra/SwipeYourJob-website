@@ -1,0 +1,22 @@
+{
+    "title": "Zo vinden jongeren en werkgevers elkaar.",
+    "text": "",
+    "section": [
+      {
+        "title": "Swipen",
+        "content": "Door op vacatures te swipen, geef je aan wat voor baantje jou interessant lijkt.",
+        "icon": "icon_swipe.svg"
+      },
+      {
+        "title": "Chatten",
+        "content": "Werkgevers kunnen vervolgens een gesprek met jou beginnen door een chatbericht te sturen.",
+        "icon": "icon_chat.svg"
+      },
+      {
+        "title": "Aan de slag",
+        "content": "Digitaal het contract tekenen zorgt ervoor dat je in no-time aan de slag kunt!  ",
+        "icon": "icon_currency.svg"
+      }
+    ]
+  }
+  

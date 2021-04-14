@@ -1,0 +1,16 @@
+{
+  "title": "Interesse? Blijf op de hoogte!",
+  "text": "Schrijf je in voor onze nieuwsbrief, zodat je als eerste onze app kunt uitproberen! Ook voor bedrijven en pers is het mogelijk om contact met ons op te nemen, via onderstaande knop.",
+  "button": [
+    {
+      "title": "Inschrijven Nieuwsbrief",
+      "style": "gradient",
+      "ext": "https://gmail.us2.list-manage.com/subscribe?u=bf0b33583bd1e8a8dd0654992&id=1a5a336fca"
+    },
+    {
+      "title": "Contact opnemen",
+      "color": "#FFFFFF",
+      "nav": "/contact"
+    }
+  ]
+}
